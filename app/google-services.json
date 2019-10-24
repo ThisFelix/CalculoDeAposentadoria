@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "project_number": "293541946392",
+    "firebase_url": "https://digitalinc-com-br-dp6-sandbox.firebaseio.com",
+    "project_id": "digitalinc.com.br:dp6-sandbox"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293541946392:android:ae3ac09f569288ebd24f6d",
+        "android_client_info": {
+          "package_name": "com.example.calculodeaposentadoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293541946392-dj3eui716b0s9qv2cikjktv77u2l6msb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-yHLkx3NIuz_owD4h8xGWhyVjVPbu9M"
+        },
+        {
+          "current_key": "AIzaSyAK-yHLkx3NIuz_owD4h8xGWhyVjVPbu9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293541946392-dj3eui716b0s9qv2cikjktv77u2l6msb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293541946392-t412gpkt8brncdl18soj01osb396ilp8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dp6.aaa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293541946392:android:592a665bfc9c8ff4",
+        "android_client_info": {
+          "package_name": "dp6.aaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293541946392-dj3eui716b0s9qv2cikjktv77u2l6msb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-yHLkx3NIuz_owD4h8xGWhyVjVPbu9M"
+        },
+        {
+          "current_key": "AIzaSyAK-yHLkx3NIuz_owD4h8xGWhyVjVPbu9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293541946392-dj3eui716b0s9qv2cikjktv77u2l6msb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293541946392-t412gpkt8brncdl18soj01osb396ilp8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dp6.aaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
