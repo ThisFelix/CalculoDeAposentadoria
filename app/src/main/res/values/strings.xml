@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Calculo De Aposentadoria</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="msg_token_fmt">token_firebase_cloud_messaging: %s</string>
 </resources>
